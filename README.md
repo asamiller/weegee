@@ -1,6 +1,6 @@
 # weegee
 
-Example of using Firebase + React together. Made for the Portland ReactJS meet up.
+Example of using [Firebase](https://www.firebase.com/) + [React](http://facebook.github.io/react/) together. Made for the [Portland ReactJS](http://www.meetup.com/Portland-ReactJS/) meet up.
 
 ## Install the dependencies
 ```
